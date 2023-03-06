@@ -1,0 +1,22 @@
+[
+  {
+    "id": "d1e2f3xyz",
+    "marca": "Fiat",
+    "modelo": "Palio Weekend",
+    "anio": 2013,
+    "idMotor": "zq110gt210ñlo",
+    "idChasis": "hx998llfs-fjg",
+    "patente": "noq323",
+    "dniTitular": "39000980"
+  },
+  {
+    "id": "v7b2y2c3oop",
+    "marca": "Chevrolet",
+    "modelo": "Tracker LTZ",
+    "anio": 2015,
+    "idMotor": "xc010pp293cmf",
+    "idChasis": "sa023oopp-lum",
+    "patente": "ppy420",
+    "dniTitular": "40001002"
+  }
+]
